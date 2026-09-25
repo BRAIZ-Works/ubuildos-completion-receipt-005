@@ -1,0 +1,2 @@
+# Recovery / Rollback
+The frozen product/publication candidate is backed up in the private assurance package. Recovery proof requires backup existence, integrity verification, cold extraction, and restored-state hash verification. Public rollback, if later published, is to disable Pages/private visibility or restore the last verified public commit under explicit authority.
