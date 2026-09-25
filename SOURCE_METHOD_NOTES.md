@@ -1,0 +1,2 @@
+# Source / Method Notes
+The product is static HTML/CSS/JavaScript. `logic.js` owns deterministic state validation, overdue logic, ordering, and CSV serialization. `app.js` owns browser-local UI/persistence. `tests.js` exercises the pure logic.
