@@ -1,0 +1,2 @@
+# Security Test Summary
+Producer checks: prohibited network primitives scan, external URL scan, synthetic-fixture review, path/archive safety, deterministic manifest recomputation, public/private allowlist separation, and frozen negative-control replay. Fresh IQA remains separate and pending.
