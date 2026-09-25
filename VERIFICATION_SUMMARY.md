@@ -1,0 +1,2 @@
+# Verification Summary
+Producer verification includes 20 deterministic logic tests, static zero-network/security scan, 10 frozen negative controls, public/private projection checks, manifest/digest recomputation, cold restore, and two final fresh sweeps. Fresh Independent IQA is separate and pending.
