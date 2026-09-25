@@ -1,0 +1,2 @@
+# Threat Model / Attack Surface
+Primary risks: sensitive data entered by users, malicious local browser extensions, edited local files, stale local storage, CSV spreadsheet interpretation, and accidental publication of private assurance artifacts. Controls: explicit data warning, synthetic fixtures, zero-network runtime, strict public allowlist, CSV escaping, and separate private assurance/public projection.
