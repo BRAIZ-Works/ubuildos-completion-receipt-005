@@ -1,0 +1,2 @@
+# Claims / Non-Claims / Limitations
+Claims: five explicit board states; deterministic movement validation; due/overdue rules; local notes; deterministic CSV; synthetic fixtures; no required runtime network. Non-claims: not a CRM, not autonomous outreach, not a system of record, not a hiring/sales/revenue guarantee.
