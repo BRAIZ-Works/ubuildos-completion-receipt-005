@@ -1,0 +1,2 @@
+# Security Assurance Summary
+Static local-first product; no required runtime network calls, analytics, trackers, authentication, cloud database, CDN, or external fonts. Public fixtures are synthetic. Security validation includes static egress scans and negative controls.
