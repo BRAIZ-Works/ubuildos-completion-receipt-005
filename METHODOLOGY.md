@@ -1,0 +1,2 @@
+# Methodology
+Lead state is explicit, not predicted. Overdue is derived deterministically as: unresolved state AND valid due date earlier than local today. Terminal WON/LOST are excluded. Export order is stable by local record ID.
