@@ -1,0 +1,2 @@
+# Public Release Scorecard
+PRE-IQA producer state only. Product functionality, documentation, security/privacy checks, recovery, negative controls, manifest/digest recomputation, and two final sweeps must pass before Fresh IQA. Publication/live hosting remain pending post-IQA authority.
